@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: tondeuse-appli
+server:
+  port: 8080
