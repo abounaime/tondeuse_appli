@@ -33,6 +33,6 @@ mvn spring-boot:run
 <ul style="color:white; font-size:18px;">
 <li>Renommer classes/méthodes pour plus de clarté.</li>
 <li>Ajouter JavaDoc et validations (@NotNull, @Valid).</li>
-<li>Meilleure gestion des erreurs (@ControllerAdvice).</li>
-<li>Tests unitaires et d’intégration.</li>
+<li>gestion des erreurs.</li>
+<li>Tests unitaires et d’intégration plus poussés.</li>
 </ul>
